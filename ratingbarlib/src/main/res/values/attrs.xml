@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 自定义RatingBar属性 -->
+    <declare-styleable name="MyRatingBar">
+        <attr name="progressColor" format="color"></attr>
+        <attr name="starWidth" format="dimension"></attr>
+        <attr name="starHeight" format="dimension"></attr>
+        <attr name="rating" format="float"></attr>
+        <attr name="starDrawable" format="reference"></attr>
+        <attr name="space" format="dimension"></attr>
+        <attr name="isIndicator" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>
